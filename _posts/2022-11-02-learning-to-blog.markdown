@@ -6,6 +6,9 @@ categories: blog
 title:  "Learning to blog, but I ain't got 'tings"
 ---
 
-# Getting the hang of it
+# Next Up
 
-Doo wah diddy doo
+1. Finding out how to make dark mode
+2. Adding some pages
+3. ???
+4. Profit
