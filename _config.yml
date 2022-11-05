@@ -30,6 +30,8 @@ url: "http://www.binsk.net" # the base hostname & protocol for your site, e.g. h
 mastodon:
    - username: binsk
      instance: infosec.exchange
+   - username: binsk
+     instance: bldg7.social
 # youtube_username: mrbinsk
 
 # Build settings
