@@ -6,8 +6,6 @@ categories: blog
 title:  "Learning to blog, but I ain't got 'tings"
 ---
 
-# Next Up
-
 1. Finding out how to make dark mode
 2. Adding some pages
 3. ???
