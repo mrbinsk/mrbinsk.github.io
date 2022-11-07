@@ -39,6 +39,11 @@ mastodon:
 theme: minima
 plugins:
   - jekyll-feed
+# add starts here
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+# add ends here
 
 # Exclude from processing.
 # The following items will not be processed, by default.
