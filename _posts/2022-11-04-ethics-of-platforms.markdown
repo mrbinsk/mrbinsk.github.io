@@ -6,7 +6,6 @@ categories: blog
 title:  "Platforms or Companies that Don't Match Your Ethics"
 ---
 
-# Working for and Participating in Platforms or Companies that Don't Match Your Ethics
 Had a good conversation with an internet ethics informal working group (which is a bunch of industry, government, and media folks discussing topics under Chatham House rules). One of the topics was what were the ethics, personal and professional, about working for companies that don't match your own ethics. 
 
 ## As a user
