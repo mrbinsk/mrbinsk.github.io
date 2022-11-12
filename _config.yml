@@ -36,7 +36,7 @@ mastodon:
 # youtube_username: mrbinsk
 
 # Build settings
-theme: minima
+remote_theme: jekyll_minima
 plugins:
   - jekyll-feed
 # add starts here
