@@ -6,7 +6,7 @@ categories: blog
 title:  "Left-Brained Word Fetishism"
 ---
 
-I've seen some posts of people sharing what I'm delighted to repeat hearing described as "left-brained word fetishism." I see it as an attempt to be more correct than someone who may not use a word in the same way they do, or perhaps mispronounces a word they've only read. The perils are everywhere.
+I've seen some posts of people on Mastodon (and elsewhere over the years) sharing what I'm delighted to repeat hearing described as "left-brained word fetishism." I see it as an attempt to be more correct than someone who may not use a word in the same way they do, or perhaps mispronounces a word they've only read. The perils are everywhere.
 
 I used to do this. In unpacking it, I was trying to protect myself from the judgment of others, but it was way too easy to fall into the practice as a way of judging others myself.
 
