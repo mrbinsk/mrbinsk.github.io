@@ -11,3 +11,5 @@ For me, who somebody may be tends to shake out when they share their perspective
 I try and share my perspective judiciously and pseudonymously online, more recently on <a rel="me" href="https://infosec.exchange/@binsk">Mastodon</a>.
 
 See you out there!
+
+I'm <a rel="me" href="https://bldg7.social/@binsk">here</a> too, but not actively. I may yet pivot to use the custom namespace as usage of Mastodon evolves.
