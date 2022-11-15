@@ -39,6 +39,15 @@ mastodon:
 theme: minima
 plugins:
   - jekyll-feed
+<<<<<<< HEAD
+=======
+  - jekyll-remote-theme
+# add starts here
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+# add ends here
+>>>>>>> ignoring _site
 
 # Exclude from processing.
 # The following items will not be processed, by default.
