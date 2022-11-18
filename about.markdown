@@ -12,4 +12,4 @@ I try and share my perspective judiciously and pseudonymously online, more recen
 
 See you out there!
 
-I'm <a rel="me" href="https://bldg7.social/@binsk">here</a> too, but not actively. I may yet pivot to use the custom namespace as usage of Mastodon evolves.
+Elsewhere on Mastodon, I'm <a rel="me" href="https://bldg7.social/@binsk">here</a> and <a rel="me" href="https://defcon.social/@binsk">here</a> too, but not actively. Still figuring out where I'm going to end up.
