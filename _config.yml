@@ -32,22 +32,13 @@ mastodon:
    - username: binsk
      instance: infosec.exchange
    - username: binsk
-     instance: bldg7.social
+     instance: defcon.social
 # youtube_username: mrbinsk
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-<<<<<<< HEAD
-=======
-  - jekyll-remote-theme
-# add starts here
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-# add ends here
->>>>>>> ignoring _site
 
 # Exclude from processing.
 # The following items will not be processed, by default.
