@@ -3,7 +3,7 @@ layout: post
 date:   2022-11-18 12:00:00 -0800
 author: binsk
 categories: blog
-title:  "Files, Organization, and Backupa"
+title:  "Files, Organization, and Backups"
 ---
 
 Do you backup your files? Do you clean them up up from time to time?
